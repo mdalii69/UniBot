@@ -1,0 +1,169 @@
+[
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hello",
+          "Hey",
+          "Good morning",
+          "Good evening"
+        ],
+        "responses": [
+          "Hello! How can I assist you with the universe today?",
+          "Hi there! Ready to explore the cosmos?",
+          "Greetings! What would you like to learn about the universe?"
+        ]
+      },
+      {
+          "tag":"topics",
+          "patterns":[
+              "Tell me the topics",
+              "What are the topics?",
+              "Which topics you know?",
+              "Help me",
+              "How can you help me",
+              "Can you tell me the options again"
+          ],
+          "responses":[
+              "I am well-versed in a wide range of fascinating topics, including:\n- Planets\n- Stars\n- Galaxies\n- Black Holes\n- The Big Bang\n- Space Exploration\n- Exoplanets\n- Cosmic Events\n- The Universe"
+          ]
+      },
+      {
+        "tag": "planets",
+        "patterns": [
+          "Tell me about planets",
+          "What are the planets in our solar system?",
+          "How many planets are there?",
+          "Name the planets",
+          "Facts about planets"
+        ],
+        "responses": [
+          "There are eight planets in our solar system: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+          "The planets in our solar system vary greatly in size, composition, and distance from the Sun.",
+          "Did you know Jupiter is the largest planet, and Mercury is the smallest?"
+        ]
+      },
+      {
+        "tag": "stars",
+        "patterns": [
+          "What are stars?",
+          "Tell me about stars",
+          "How are stars formed?",
+          "Facts about stars",
+          "What is the Sun?"
+        ],
+        "responses": [
+          "Stars are luminous spheres of plasma held together by gravity, and our Sun is one of them.",
+          "Stars form from dense clouds of gas and dust collapsing under their gravity.",
+          "Did you know the Sun is classified as a G-type main-sequence star?"
+        ]
+      },
+      {
+        "tag": "galaxies",
+        "patterns": [
+          "What is a galaxy?",
+          "Tell me about galaxies",
+          "How many galaxies are there?",
+          "What is the Milky Way?",
+          "Facts about galaxies"
+        ],
+        "responses": [
+          "A galaxy is a massive system of stars, stellar remnants, gas, dust, and dark matter bound together by gravity.",
+          "The Milky Way is the galaxy that contains our solar system.",
+          "There are billions of galaxies in the universe, each with unique characteristics."
+        ]
+      },
+      {
+        "tag": "black_holes",
+        "patterns": [
+          "What is a black hole?",
+          "Tell me about black holes",
+          "How are black holes formed?",
+          "Facts about black holes",
+          "Can black holes destroy everything?"
+        ],
+        "responses": [
+          "Black holes are regions of space where gravity is so strong that nothing, not even light, can escape.",
+          "Black holes form when massive stars collapse under their gravity at the end of their life cycle.",
+          "Did you know that black holes can vary in size from small stellar black holes to supermassive ones?"
+        ]
+      },
+      {
+        "tag": "big_bang",
+        "patterns": [
+          "What is the Big Bang?",
+          "Explain the Big Bang theory",
+          "How did the universe begin?",
+          "Facts about the Big Bang",
+          "What happened during the Big Bang?"
+        ],
+        "responses": [
+          "The Big Bang theory describes the origin of the universe as a massive expansion approximately 13.8 billion years ago.",
+          "During the Big Bang, all matter and energy were concentrated in a single point before expanding rapidly.",
+          "The universe has been expanding ever since the Big Bang."
+        ]
+      },
+      {
+        "tag": "space_exploration",
+        "patterns": [
+          "Tell me about space exploration",
+          "What are space missions?",
+          "Facts about space exploration",
+          "Who was the first person in space?",
+          "What is NASA?"
+        ],
+        "responses": [
+          "Space exploration involves the discovery and exploration of celestial structures using space technology.",
+          "Yuri Gagarin was the first person in space, aboard the Vostok 1 spacecraft in 1961.",
+          "NASA, the National Aeronautics and Space Administration, is a leading organization in space exploration."
+        ]
+      },
+      {
+        "tag": "exoplanets",
+        "patterns": [
+          "What are exoplanets?",
+          "Tell me about planets outside our solar system",
+          "How are exoplanets discovered?",
+          "Facts about exoplanets",
+          "Are there habitable exoplanets?"
+        ],
+        "responses": [
+          "Exoplanets are planets that orbit stars outside our solar system.",
+          "Scientists use methods like the transit method and radial velocity to discover exoplanets.",
+          "Some exoplanets, like those in the habitable zone, may have conditions suitable for life."
+        ]
+      },
+      {
+        "tag": "cosmic_events",
+        "patterns": [
+          "What are cosmic events?",
+          "Tell me about supernovae",
+          "What is a neutron star?",
+          "Facts about cosmic phenomena",
+          "What is a gamma-ray burst?"
+        ],
+        "responses": [
+          "Cosmic events include phenomena like supernovae, gamma-ray bursts, and the formation of neutron stars.",
+          "A supernova is a powerful explosion that occurs when a star exhausts its nuclear fuel.",
+          "Gamma-ray bursts are intense emissions of gamma radiation, often associated with massive cosmic explosions."
+        ]
+    },
+    {
+      "tag": "universe",
+      "patterns": [
+        "What is the universe?",
+        "Tell me about the universe",
+        "How big is the universe?",
+        "What is the age of the universe?",
+        "What are the mysteries of the universe?"
+      ],
+      "responses": [
+        "The universe is all of space and time, including everything in it such as stars, planets, galaxies, and cosmic phenomena.",
+        "The universe is approximately 13.8 billion years old, according to the Big Bang theory.",
+        "It is believed that the universe is infinite in size, and its full extent is still unknown.",
+        "The mysteries of the universe include the nature of dark matter, dark energy, and the potential for other universes beyond our own."
+      ]
+    }
+
+]
+  

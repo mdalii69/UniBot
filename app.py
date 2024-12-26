@@ -55,7 +55,7 @@ def main():
 
     # Home Menu
     if choice == "Home":
-        st.write("Welcome to the chatbot. Please type \"Hi\" or \"Help me\" to start the conversation.")
+        st.write("Welcome to Universe chatbot. Please type \"Hi\" or \"Help me\" to start the conversation.")
 
         # Check if the chat_log.csv file exists, and if not, create it with column names
         if not os.path.exists('chat_log.csv'):

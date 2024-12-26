@@ -47,7 +47,7 @@ counter = 0
 
 def main():
     global counter
-    st.title("Universe Chatbot - by Mohammad Ali")
+    st.title("UniBot - by Mohammad Ali")
 
     # Create a sidebar menu with options
     menu = ["Home", "Conversation History", "About"]

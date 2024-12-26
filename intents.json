@@ -14,6 +14,22 @@
           "Greetings! What would you like to learn about the universe?"
         ]
       },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Take care",
+            "Quit",
+            "Exit"
+        ],
+        "responses": [
+            "Goodbye",
+            "See you later",
+            "Thank you for chatting with me. Have a great day!"
+        ]
+    },
       {
           "tag":"topics",
           "patterns":[
